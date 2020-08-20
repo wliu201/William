@@ -1,0 +1,55 @@
+.sm-body {
+  width: 100%;
+  padding: 0;
+  margin: 0;
+  background-color: LavenderBlush;
+}
+.sm-box {
+  width: 100px;
+  height: 100px;
+  margin: 20px;
+  background-color: Aquamarine;}
+
+  .sm-box--circle{
+    border-radius: 50%;
+  }
+
+  .sm-row{
+    width: 100%;
+    position: relative;
+    overflow: hidden;
+  }
+
+  .sm-box--Aquamarine{
+    background-color: LightSkyBlue;
+  }
+
+  .sm-box--SeaGreen{
+    background-color: DeepSkyBlue;
+  }
+
+  .sm-box--LightSeaGreen{
+    background-color: DodgerBlue;
+  }
+
+  .sm-box--RoyalBlue{
+    background-color: RoyalBlue;
+  }
+
+  .sm-box--Blue{
+    background-color: Blue;
+  }
+
+  .sm-row{
+    width: 100%;
+    position: relative;
+    overflow: hidden;
+  }
+
+  .sm-box--left{
+    float: left;
+  }
+
+  .sm-box--right{
+    float: right;
+  }
